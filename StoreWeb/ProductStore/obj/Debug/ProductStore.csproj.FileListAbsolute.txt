@@ -1,0 +1,154 @@
+c:\Users\Jeka\documents\visual studio 2015\Projects\StoreWeb\ProductStore\obj\Debug\ProductStore.csprojResolveAssemblyReference.cache
+c:\Users\Jeka\documents\visual studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\ProductStore.dll
+c:\Users\Jeka\documents\visual studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\ProductStore.pdb
+c:\Users\Jeka\documents\visual studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\Core.Dal.Ado.Net.dll
+c:\Users\Jeka\documents\visual studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\Entity.dll
+c:\Users\Jeka\documents\visual studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\IRepository.dll
+c:\Users\Jeka\documents\visual studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\Core.Dal.Ado.Net.pdb
+c:\Users\Jeka\documents\visual studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\Entity.pdb
+c:\Users\Jeka\documents\visual studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\IRepository.pdb
+c:\Users\Jeka\documents\visual studio 2015\Projects\StoreWeb\ProductStore\obj\Debug\ProductStore.dll
+c:\Users\Jeka\documents\visual studio 2015\Projects\StoreWeb\ProductStore\obj\Debug\ProductStore.pdb
+F:\StoreWeb\ProductStore\bin\Debug\ProductStore.dll
+F:\StoreWeb\ProductStore\bin\Debug\ProductStore.pdb
+F:\StoreWeb\ProductStore\bin\Debug\Core.Dal.Ado.Net.dll
+F:\StoreWeb\ProductStore\bin\Debug\Entity.dll
+F:\StoreWeb\ProductStore\bin\Debug\IRepository.dll
+F:\StoreWeb\ProductStore\bin\Debug\Core.Dal.Ado.Net.pdb
+F:\StoreWeb\ProductStore\bin\Debug\Entity.pdb
+F:\StoreWeb\ProductStore\bin\Debug\IRepository.pdb
+F:\StoreWeb\ProductStore\obj\Debug\ProductStore.csprojAssemblyReference.cache
+F:\StoreWeb\ProductStore\obj\Debug\ProductStore.csproj.CoreCompileInputs.cache
+F:\StoreWeb\ProductStore\obj\Debug\ProductStore.csproj.CopyComplete
+F:\StoreWeb\ProductStore\obj\Debug\ProductStore.dll
+F:\StoreWeb\ProductStore\obj\Debug\ProductStore.pdb
+F:\StoreWeb\ProductStore\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.Helpers.dll
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.Mvc.dll
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.Razor.dll
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.dll
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Razor.dll
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.Helpers.xml
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.Mvc.xml
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.Razor.xml
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.xml
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Razor.xml
+F:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Helpers.resources.dll
+F:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Mvc.resources.dll
+F:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Razor.resources.dll
+F:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.resources.dll
+F:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+F:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+L:\StoreWeb\ProductStore\bin\Debug\ProductStore.dll
+L:\StoreWeb\ProductStore\bin\Debug\ProductStore.pdb
+L:\StoreWeb\ProductStore\bin\Debug\Core.Dal.Ado.Net.dll
+L:\StoreWeb\ProductStore\bin\Debug\Entity.dll
+L:\StoreWeb\ProductStore\bin\Debug\IRepository.dll
+L:\StoreWeb\ProductStore\bin\Debug\Microsoft.Web.Infrastructure.dll
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.Helpers.dll
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.Mvc.dll
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.Razor.dll
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Deployment.dll
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.dll
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Razor.dll
+L:\StoreWeb\ProductStore\bin\Debug\Core.Dal.Ado.Net.pdb
+L:\StoreWeb\ProductStore\bin\Debug\Entity.pdb
+L:\StoreWeb\ProductStore\bin\Debug\IRepository.pdb
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.Helpers.xml
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.Mvc.xml
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.Razor.xml
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.xml
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Deployment.xml
+L:\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Razor.xml
+L:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Helpers.resources.dll
+L:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Mvc.resources.dll
+L:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Razor.resources.dll
+L:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.resources.dll
+L:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+L:\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+L:\StoreWeb\ProductStore\obj\Debug\ProductStore.csprojResolveAssemblyReference.cache
+L:\StoreWeb\ProductStore\obj\Debug\ProductStore.dll
+L:\StoreWeb\ProductStore\obj\Debug\ProductStore.pdb
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.Helpers.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.Mvc.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.Razor.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.Helpers.xml
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.Mvc.xml
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.Razor.xml
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.xml
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\ProductStore.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\ProductStore.pdb
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\Core.Dal.Ado.Net.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\Entity.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\IRepository.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Helpers.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Mvc.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Razor.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Razor.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\Core.Dal.Ado.Net.pdb
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\Entity.pdb
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\IRepository.pdb
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Helpers.xml
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Mvc.xml
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Razor.xml
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.xml
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Razor.xml
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Helpers.resources.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Mvc.resources.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Razor.resources.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.resources.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+F:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+F:\new_Web\StoreWeb\ProductStore\obj\Debug\ProductStore.csprojAssemblyReference.cache
+F:\new_Web\StoreWeb\ProductStore\obj\Debug\ProductStore.csproj.CoreCompileInputs.cache
+F:\new_Web\StoreWeb\ProductStore\obj\Debug\ProductStore.csproj.CopyComplete
+F:\new_Web\StoreWeb\ProductStore\obj\Debug\ProductStore.dll
+F:\new_Web\StoreWeb\ProductStore\obj\Debug\ProductStore.pdb
+L:\new_Web\StoreWeb\ProductStore\obj\Debug\ProductStore.csprojResolveAssemblyReference.cache
+L:\new_Web\StoreWeb\ProductStore\obj\Debug\ProductStore.dll
+L:\new_Web\StoreWeb\ProductStore\obj\Debug\ProductStore.pdb
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\ProductStore.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\ProductStore.pdb
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\Core.Dal.Ado.Net.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\Entity.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\IRepository.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\Microsoft.Web.Infrastructure.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Helpers.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Mvc.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Razor.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Deployment.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Razor.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\Core.Dal.Ado.Net.pdb
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\Entity.pdb
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\IRepository.pdb
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Helpers.xml
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Mvc.xml
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.Razor.xml
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.xml
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Deployment.xml
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\System.Web.WebPages.Razor.xml
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Helpers.resources.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Mvc.resources.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.Razor.resources.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.resources.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+L:\new_Web\StoreWeb\ProductStore\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll

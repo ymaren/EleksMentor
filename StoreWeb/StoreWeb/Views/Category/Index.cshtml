@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ProductStore.Model.ProductCategoryViewModel>
+
+@{
+    ViewBag.Title = "Categories list";
+    Layout = "~/Views/Shared/_ManageLayout.cshtml";
+    @Styles.Render("~/Content/css");
+}
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>Categories list</h3>
+    </div>
+    <div  id="EditForm">
+        @Html.ActionLink("Add new category", "Edit", null,
+            new { @class = "btn btn-success" })
+    </div>
+    <table class="table table-striped table-condensed table-bordered">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryDescription)
+            </th>
+            <th class="text-center">Action</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryId)
+                </td>
+                <td>
+                 @Html.ActionLink(item.CategoryName,"Edit", new { item.CategoryId})
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryDescription)
+                </td>
+                <td class="text-center">
+                    @using (Html.BeginForm("Delete", "Category"))
+                    {
+                        @Html.Hidden("Id", item.CategoryId)
+                        <input type="submit"
+                               class="btn btn-danger"
+                               value="Delete" />
+                    }
+                </td>
+            </tr>
+        }
+    </table>     
+</div>

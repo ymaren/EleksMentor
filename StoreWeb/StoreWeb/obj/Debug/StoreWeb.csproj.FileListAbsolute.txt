@@ -1,0 +1,389 @@
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ApplicationInsights.config
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\csc.exe
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\vbc.exe
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\StoreWeb.dll.config
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\StoreWeb.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\StoreWeb.pdb
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Antlr3.Runtime.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\EntityFramework.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\EntityFramework.SqlServer.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AI.Web.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.ApplicationInsights.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Newtonsoft.Json.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Owin.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Net.Http.Formatting.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Helpers.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Http.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Http.WebHost.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Mvc.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Optimization.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Razor.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.WebPages.Deployment.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.WebPages.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.WebPages.Razor.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\WebGrease.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AI.Web.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.ApplicationInsights.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Helpers.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Mvc.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Optimization.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Razor.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.WebPages.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.WebPages.Deployment.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.WebPages.Razor.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Antlr3.Runtime.pdb
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Newtonsoft.Json.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Net.Http.Formatting.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Http.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Http.WebHost.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\EntityFramework.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\EntityFramework.SqlServer.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\System.Web.Helpers.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\System.Web.Mvc.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\System.Web.Optimization.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\System.Web.Razor.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\System.Web.WebPages.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\System.Web.Http.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\EntityFramework.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\EntityFramework.SqlServer.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\obj\Debug\StoreWeb.csprojResolveAssemblyReference.cache
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\obj\Debug\StoreWeb.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\obj\Debug\StoreWeb.pdb
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Core.Dal.Ado.Net.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Entity.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\IRepository.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ProductStore.dll
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Core.Dal.Ado.Net.pdb
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\Entity.pdb
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\IRepository.pdb
+c:\users\jeka\documents\visual studio 2015\Projects\StoreWeb\StoreWeb\bin\ProductStore.pdb
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Providers.dll
+C:\Users\Jeka\Documents\Visual Studio 2015\Projects\StoreWeb\StoreWeb\bin\System.Web.Providers.xml
+F:\new_Web\StoreWeb\StoreWeb\obj\Debug\StoreWeb.csprojAssemblyReference.cache
+F:\new_Web\StoreWeb\StoreWeb\obj\Debug\StoreWeb.csproj.CoreCompileInputs.cache
+F:\new_Web\StoreWeb\StoreWeb\obj\Debug\StoreWeb.dll
+F:\new_Web\StoreWeb\StoreWeb\obj\Debug\StoreWeb.pdb
+F:\new_Web\StoreWeb\StoreWeb\bin\ApplicationInsights.config
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\csc.exe
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\vbc.exe
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\VBCSCompiler.exe
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\new_Web\StoreWeb\StoreWeb\bin\StoreWeb.dll.config
+F:\new_Web\StoreWeb\StoreWeb\bin\StoreWeb.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\StoreWeb.pdb
+F:\new_Web\StoreWeb\StoreWeb\bin\Antlr3.Runtime.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Core.Dal.Ado.Net.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Entity.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\EntityFramework.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\EntityFramework.SqlServer.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\IRepository.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.Web.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.ApplicationInsights.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Google.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Twitter.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Newtonsoft.Json.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Owin.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ProductStore.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Net.Http.Formatting.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Helpers.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Http.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Http.WebHost.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Mvc.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Optimization.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Providers.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Razor.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.Deployment.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.Razor.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\WebGrease.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\Core.Dal.Ado.Net.pdb
+F:\new_Web\StoreWeb\StoreWeb\bin\Entity.pdb
+F:\new_Web\StoreWeb\StoreWeb\bin\IRepository.pdb
+F:\new_Web\StoreWeb\StoreWeb\bin\ProductStore.pdb
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.Web.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.ApplicationInsights.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Providers.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Helpers.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Mvc.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Optimization.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Razor.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.Deployment.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.Razor.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Antlr3.Runtime.pdb
+F:\new_Web\StoreWeb\StoreWeb\bin\Newtonsoft.Json.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Net.Http.Formatting.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Http.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Http.WebHost.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\EntityFramework.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\EntityFramework.SqlServer.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Google.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Twitter.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Helpers.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Mvc.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Optimization.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Razor.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.WebPages.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Net.Http.Formatting.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Http.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Http.WebHost.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\obj\Debug\StoreWeb.csproj.CopyComplete
+L:\new_Web\StoreWeb\StoreWeb\bin\ApplicationInsights.config
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\csc.exe
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.Collections.Immutable.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.Reflection.Metadata.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\vbc.exe
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\VBCSCompiler.exe
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\VBCSCompiler.exe.config
+L:\new_Web\StoreWeb\StoreWeb\bin\StoreWeb.dll.config
+L:\new_Web\StoreWeb\StoreWeb\bin\StoreWeb.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\StoreWeb.pdb
+L:\new_Web\StoreWeb\StoreWeb\bin\Antlr3.Runtime.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Core.Dal.Ado.Net.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Entity.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\EntityFramework.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\EntityFramework.SqlServer.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\IRepository.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.Agent.Intercept.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.DependencyCollector.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.Web.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.WindowsServer.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.ApplicationInsights.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Core.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Cookies.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Facebook.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Google.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.OAuth.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Twitter.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Web.Infrastructure.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Newtonsoft.Json.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Owin.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ProductStore.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Net.Http.Formatting.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Helpers.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Http.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Http.WebHost.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Mvc.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Optimization.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Providers.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Razor.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.Deployment.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.Razor.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\WebGrease.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\Core.Dal.Ado.Net.pdb
+L:\new_Web\StoreWeb\StoreWeb\bin\Entity.pdb
+L:\new_Web\StoreWeb\StoreWeb\bin\IRepository.pdb
+L:\new_Web\StoreWeb\StoreWeb\bin\ProductStore.pdb
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.DependencyCollector.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.Web.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AI.WindowsServer.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.ApplicationInsights.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Providers.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Helpers.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Mvc.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Optimization.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Razor.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.Deployment.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.WebPages.Razor.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Antlr3.Runtime.pdb
+L:\new_Web\StoreWeb\StoreWeb\bin\Newtonsoft.Json.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Net.Http.Formatting.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Http.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\System.Web.Http.WebHost.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\EntityFramework.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\EntityFramework.SqlServer.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Core.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Facebook.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Cookies.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.OAuth.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Google.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.Twitter.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Helpers.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Mvc.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Optimization.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Razor.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.WebPages.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.WebPages.Deployment.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.WebPages.Razor.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Net.Http.Formatting.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Http.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\System.Web.Http.WebHost.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+L:\new_Web\StoreWeb\StoreWeb\obj\Debug\StoreWeb.csprojResolveAssemblyReference.cache
+L:\new_Web\StoreWeb\StoreWeb\obj\Debug\StoreWeb.dll
+L:\new_Web\StoreWeb\StoreWeb\obj\Debug\StoreWeb.pdb
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\csc.exe.config
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\csc.rsp
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\csi.exe
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\csi.rsp
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.AppContext.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.IO.FileSystem.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\vbc.exe.config
+F:\new_Web\StoreWeb\StoreWeb\bin\roslyn\vbc.rsp
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\csc.exe.config
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\csc.rsp
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\csi.exe
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\csi.rsp
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.AppContext.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.IO.FileSystem.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\vbc.exe.config
+L:\new_Web\StoreWeb\StoreWeb\bin\roslyn\vbc.rsp
+F:\new_Web\StoreWeb\StoreWeb\bin\MvcCheckBoxList.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\EntityFramework.resources.dll
+F:\new_Web\StoreWeb\StoreWeb\bin\ru\EntityFramework.SqlServer.resources.dll

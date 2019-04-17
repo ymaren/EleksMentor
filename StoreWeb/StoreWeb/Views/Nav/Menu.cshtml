@@ -1,0 +1,110 @@
+﻿@model IEnumerable<ProductStore.Model.ProductCategoryViewModel>
+@Styles.Render("~/Content/css")
+
+ <input type="checkbox" id="nav-toggle" hidden>
+   
+    <nav class="nav">
+     <label for="nav-toggle" class="nav-toggle" onclick></label>
+   
+        <h2 class="logo"> 
+            <a href="/Home/menu//">my admin cabinet</a> 
+        </h2>
+        
+        <ul >
+    <li>
+        @foreach (ProductStore.Model.ProductCategoryViewModel categ in ViewBag.Categories)
+        {
+
+          @Html.RouteLink(categ.CategoryName, new
+          {
+           controller = "Product",
+           action = "GetAll",
+           category = categ.CategoryId,
+           page = 1
+          }
+       // , new
+       //{
+       //    @class = "btn btn-block text-left"
+       //     + (categ.CategoryId == ViewBag.CurrentCategory ? "btn btn-primary btn-lg active" : "")
+       //}
+       )
+            <ul type="none">
+                <li>
+                   
+                        @foreach (ProductStore.Model.ProductGroupViewModel group in 
+                       ((IEnumerable<ProductStore.Model.ProductGroupViewModel>)(ViewBag.Group)).Where(c => c.CategoryId == categ.CategoryId))
+                        {
+                        @Html.RouteLink(group.GroupName, new
+                   {
+                       controller = "Product",
+                       action = "GetAll",
+                       category = categ.CategoryId,
+                       group = group.GroupId,
+                       page = 1
+                   }
+                   , new
+                   {
+                       @class = "btn btn-block text-left"
+                   }
+                   )
+
+
+                        }
+               </li>
+            </ul>
+       }
+    </li>
+</ul>
+
+
+
+    </nav>
+@*@Html.ActionLink("Домой", "List", "Game", null,
+    new { @class = "btn btn-block btn-default btn-lg" })
+<div>
+<ul >
+    <li>
+        @foreach (ProductStore.Model.ProductCategoryViewModel categ in ViewBag.Categories)
+        {
+
+          @Html.RouteLink(categ.CategoryName, new
+          {
+           controller = "Product",
+           action = "GetAll",
+           category = categ.CategoryId,
+           page = 1
+          }
+       // , new
+       //{
+       //    @class = "btn btn-block text-left"
+       //     + (categ.CategoryId == ViewBag.CurrentCategory ? "btn btn-primary btn-lg active" : "")
+       //}
+       )
+            <ul class="hide">
+                <li>
+                   
+                        @foreach (ProductStore.Model.ProductGroupViewModel group in 
+                       ((IEnumerable<ProductStore.Model.ProductGroupViewModel>)(ViewBag.Group)).Where(c => c.CategoryId == categ.CategoryId))
+                        {
+                        @Html.RouteLink(group.GroupName, new
+                   {
+                       controller = "Product",
+                       action = "GetAll",
+                       category = categ.CategoryId,
+                       group = group.GroupId,
+                       page = 1
+                   }
+                   , new
+                   {
+                       @class = "btn btn-block text-left"
+                   }
+                   )
+
+
+                        }
+               </li>
+            </ul>
+       }
+    </li>
+</ul>
+</div>*@
