@@ -1,0 +1,105 @@
+﻿@model ProductStore.Model.OrderHViewModel
+@{
+    ViewBag.Title = "Order type ";
+    Layout = null;
+    @Styles.Render("~/Content/css")
+}
+
+
+@using (Html.BeginForm())
+{
+    <div class="row">
+
+        <div class="col-1"></div>
+        <fieldset class="col-md-8 col-md-offset-1 alert-info border-dark">
+            <legend> <strong>Edit order</strong> </legend>
+            <div>
+
+                <div>
+                    <strong>@Html.LabelFor(model => model.OrderDate, htmlAttributes: new { @class = "control-label col-md-1" })</strong>
+                    <div class="col-md-3">
+                        @Html.EditorFor(model => model.OrderDate, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.OrderDate, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div>
+                    <strong>@Html.LabelFor(model => model.OrderNumber, htmlAttributes: new { @class = "control-label col-md-1" })</strong>
+                    <div class="col-md-3">
+                        @Html.EditorFor(model => model.OrderNumber, new { htmlAttributes = new { @class = "form-control"} })
+                        @Html.ValidationMessageFor(model => model.OrderNumber, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div>
+                    <strong>@Html.LabelFor(model => model.OrderToUser, htmlAttributes: new { @class = "control-label col-md-1" })</strong>
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(model => model.OrderToUser, ViewBag.Users as SelectList)
+                        @Html.ValidationMessageFor(model => model.OrderToUser, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                 <div class="form-group">
+                        <strong>@Html.LabelFor(model => model.OrderTypeid, htmlAttributes: new { @class = "control-label col-md-1" })</strong>
+                        <div class="col-md-10">
+                            @Html.DropDownListFor(model => model.OrderTypeid, ViewBag.OrderTypes as SelectList)
+                            @Html.ValidationMessageFor(model => model.OrderTypeid, "", new { @class = "text-danger" })
+                        </div>
+                 </div>
+                
+                <div>
+                    <strong>@Html.LabelFor(model => model.OrderAmount, htmlAttributes: new { @class = "control-label col-md-1" })</strong>
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.OrderAmount, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.OrderAmount, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+        <div>
+        <strong>Order details </strong>
+        <Table class="table table-striped table-condensed table-bordered">
+            <th>
+               Product code
+            </th>
+            <th>
+               Product name
+            </th>
+            <th>
+               Quantity
+            </th>
+            <th>
+               Price
+            </th>
+            <th align="center">
+               Sum
+            </th>
+
+           
+
+         @foreach (var item in Model.OrderDetail)
+         {
+           <tr>
+           <td>   </td>
+           <td>   </td>
+           <td> @Html.DisplayFor(modelItem => item.OrderQTY)   </td>
+           <td> @Html.DisplayFor(modelItem => item.ProductPrice)  </td>
+           <td align="center"> @Html.DisplayFor(modelItem => item.ProductSum) </td>
+           </tr>
+         }
+          </Table>
+        </div>
+
+
+
+                <div class="form-group">
+                    <div class="col-md-offset-1 col-md-10">
+                        <input type="submit" value="Save" class="btn btn-success" />
+                        @Html.ActionLink("Cancel", "Index", null, new { @class = "btn btn-info" })
+                    </div>
+                </div>
+            </div>
+        </fieldset>
+
+        
+
+
+
+    </div>
+}
